@@ -10,3 +10,4 @@ scope.$watch(
 );
 
 
+scope.$digest();
